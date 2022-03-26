@@ -1,12 +1,17 @@
 ### Hi there 👋, my name is sagor
 #### A  frontend developer from Bangladesh
-![A  frontend developer from Bangladesh](https://arturssmirnohttps://github.com/sagor15/sagor15/blob/main/Untitled%20Design.jpgvs.github.io/github-profile-readme-generator/images/banner.png)
+![A  frontend developer from Bangladesh](https://raw.githubusercontent.com/sagor15/sagor15/main/Untitled%20Design.jpg)
 
 I am still learning to program. 
 
 Skills:  REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
+
+
+
+
+
 
 
 
