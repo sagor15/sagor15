@@ -1,5 +1,16 @@
-<h1 align="center">Hi 👋, I'm Sagor</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+### Hi there 👋, my name is sagor
+#### A  frontend developer from Bangladesh
+![A  frontend developer from Bangladesh](https://arturssmirnohttps://github.com/sagor15/sagor15/blob/main/Untitled%20Design.jpgvs.github.io/github-profile-readme-generator/images/banner.png)
+
+I am still learning to program. 
+
+Skills:  REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagor15&label=Profile%20views&color=0e75b6&style=flat" alt="sagor15" /> </p>
 
